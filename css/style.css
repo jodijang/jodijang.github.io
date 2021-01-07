@@ -1,0 +1,78 @@
+h1 {
+    font-family: 'Raleway', sans-serif;
+    width: 100%;
+	text-align: center;
+	font-size: 35x;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+    width: 100%;
+	text-align: left;
+	font-size: 24x;
+}
+
+h3 {
+	font-family: 'Raleway', sans-serif;
+	text-align: left;
+	font-size: 22x;
+	color: #696969;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+}
+
+a {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+}
+
+li {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	padding: 0px 0px 0px 250px;
+}
+
+.card {
+	padding: 30px 30px 30px 30px;
+	background-color: #F0FFFF;
+	box-shadow: 2px 2px 2px 2px #B0C4DE;
+}
+
+.small-card {
+	padding: 20px 20px 20px 20px;
+	background-color: #FFFFFF;
+	box-shadow: 1px 1px 1px 1px #B0C4DE;
+}
+
+.profile-text {
+	padding: 50px 50px 50px 250px;
+}
+
+.contact-text {
+	padding: 0px 0px 0px 250px;
+}
+
+.pic {
+    border-radius: 50%;
+}
+
+.padding {
+	padding: 30px 30px 30px 30px;
+}
+
+table {
+	width: 100%;
+	table-layout: fixed;
+}
+
+th, td {
+	font-family: 'Raleway', sans-serif;
+	background-color: #FFFFFF;
+	width: 50%;
+	padding: 10px 0px 10px 0px;
+	box-shadow: 1px 1px 1px 1px #B0C4DE;
+	font-color: #696969;
+}
